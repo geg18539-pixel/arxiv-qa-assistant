@@ -8,9 +8,12 @@
 - 检索策略：向量检索，相似度阈值0.7
 
 ## 功能演示
-<img width="598" height="489" alt="屏幕截图 2026-09-04 155743" src="https://github.com/user-attachments/assets/cfb56eb2-5bef-4aff-851c-e5870d1165a3" />
+<img width="2059" height="737" alt="屏幕截图 2026-09-04 183813" src="https://github.com/user-attachments/assets/5d04faf3-980b-4115-8d48-1846fc62bce2" />
+<img width="1433" height="1337" alt="屏幕截图 2026-09-04 183831" src="https://github.com/user-attachments/assets/7b1a9cfb-fc4f-4d94-be9f-afcf69ab329f" />
+
 
 <img width="1394" height="523" alt="屏幕截图 2026-09-04 155736" src="https://github.com/user-attachments/assets/9e66fc7e-f191-4df5-9ec6-8c92fa449500" />
+<img width="561" height="927" alt="屏幕截图 2026-09-04 185717" src="https://github.com/user-attachments/assets/2aaaadbb-889e-4771-9f36-a61c99d41fac" />
 
 
 ## 在线Demo
